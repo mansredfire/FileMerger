@@ -1,11 +1,4 @@
 ﻿#!/usr/bin/env python3
-"""
-Smart CSV Merger for Map Data Collector
-Merges all customer entries and consolidates duplicate information
-- Combines multiple entries for same customer
-- Merges all available data (name, address, phone, email)
-- Keeps all unique values for each field
-"""
 
 import os
 import csv
